@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DILab</title>
+    <link>https://dilab-scu.github.io/nlp/</link>
+    <description>Recent content on DILab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Your Name, 2016 </copyright>
+    <lastBuildDate>Wed, 21 Oct 2020 05:45:35 +0200</lastBuildDate><atom:link href="https://dilab-scu.github.io/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper3prophetnet/</link>
+      <pubDate>Wed, 21 Oct 2020 05:45:35 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper3prophetnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper1tell/</link>
+      <pubDate>Sun, 04 Oct 2020 03:13:46 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper1tell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper2diverse/</link>
+      <pubDate>Sun, 04 Oct 2020 03:02:07 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper2diverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper10anchibert/</link>
+      <pubDate>Thu, 24 Sep 2020 03:41:13 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper10anchibert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Automatic Evaluation Metric for Ancient-Modern Chinese Translation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper8an-automatic/</link>
+      <pubDate>Tue, 04 Aug 2020 01:00:00 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper8an-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s be Humorous: Knowledge Enhanced Humor Generation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper11lets/</link>
+      <pubDate>Sat, 04 Jul 2020 03:04:14 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper11lets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RikiNet: Reading Wikipedia Pages for Natural Question Answering</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper4rikinet/</link>
+      <pubDate>Thu, 30 Apr 2020 03:29:21 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper4rikinet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper5revision/</link>
+      <pubDate>Fri, 03 Apr 2020 12:04:49 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper5revision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Poetry: A Chinese Classical Poetry Generation System</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper6deep-poetry/</link>
+      <pubDate>Fri, 03 Apr 2020 11:41:02 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper6deep-poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Chinese Poetry from Images via Concrete and Abstract Information</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper7generating/</link>
+      <pubDate>Tue, 24 Mar 2020 11:17:20 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper7generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration on the Generation of Chinese Palindrome Poetry</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper9exploration/</link>
+      <pubDate>Wed, 01 Jan 2020 01:00:00 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper9exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper13bfgan/</link>
+      <pubDate>Mon, 23 Sep 2019 07:45:44 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper13bfgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper14%C2%B5-forcing/</link>
+      <pubDate>Mon, 01 Jul 2019 07:45:44 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper14%C2%B5-forcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper12tigs/</link>
+      <pubDate>Sun, 26 May 2019 07:45:44 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper12tigs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancient-Modern Chinese Translation with a New Large Training Dataset</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper15ancient-modern/</link>
+      <pubDate>Thu, 09 May 2019 07:45:44 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper15ancient-modern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper17generating/</link>
+      <pubDate>Fri, 05 Oct 2018 05:01:51 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper17generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Modal Chinese Poetry Generation Model</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper16a-multi/</link>
+      <pubDate>Tue, 26 Jun 2018 05:01:51 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper16a-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dayiheng Liu</title>
+      <link>https://dilab-scu.github.io/nlp/member/member1dayiheng-liu/</link>
+      <pubDate>Fri, 20 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member1dayiheng-liu/</guid>
+      <description>My name is Dayiheng Liu (刘大一恒). I’m a Ph.D. student in the College of Computer Science at Sichuan University, advised by Prof. Jiancheng Lv.
+My CV can be found here.
+My publications can be found here.
+My awards &amp;amp; honors can be found here.
+(More about me…)
+Experience   2019.6 - 2020.7, Intern, NLC group, Microsoft Research Lab – Asia (MSRA).
+ Team leader: Nan Duan Mentor: Yeyun Gong    2015.</description>
+    </item>
+    
+    <item>
+      <title>Kexin Yang</title>
+      <link>https://dilab-scu.github.io/nlp/member/member2kexin-yang/</link>
+      <pubDate>Thu, 19 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member2kexin-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qian Qu</title>
+      <link>https://dilab-scu.github.io/nlp/member/member3qian-qu/</link>
+      <pubDate>Wed, 18 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member3qian-qu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingfeng Xue</title>
+      <link>https://dilab-scu.github.io/nlp/member/member4mingfeng-xue/</link>
+      <pubDate>Tue, 17 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member4mingfeng-xue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chanjuan Li</title>
+      <link>https://dilab-scu.github.io/nlp/member/member5chanjuan-li/</link>
+      <pubDate>Mon, 16 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member5chanjuan-li/</guid>
+      <description>My name is Chanjuan Li (李婵娟). I’m a master student in the College of Computer Science at Sichuan University, advised by Prof. Jiancheng Lv.
+My publications can be found here.
+My awards &amp;amp; honors can be found here. (More about me…)
+My CV can be found here.
+My publications can be found here.
+My awards &amp;amp; honors can be found here.
+(More about me…)
+Experience  2019.9 - 2022.7, Master, DICALab, Sichuan University (SCU).</description>
+    </item>
+    
+    <item>
+      <title>Huishuang Tian</title>
+      <link>https://dilab-scu.github.io/nlp/member/member6huishuang-tian/</link>
+      <pubDate>Sun, 15 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member6huishuang-tian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheng Luo</title>
+      <link>https://dilab-scu.github.io/nlp/member/member7cheng-luo/</link>
+      <pubDate>Sat, 14 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member7cheng-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian Lan</title>
+      <link>https://dilab-scu.github.io/nlp/member/member8jian-lan/</link>
+      <pubDate>Fri, 13 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member8jian-lan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hang Zhang</title>
+      <link>https://dilab-scu.github.io/nlp/member/member9hang-zhang/</link>
+      <pubDate>Thu, 12 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member9hang-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yifan Pu</title>
+      <link>https://dilab-scu.github.io/nlp/member/member10yifan-pu/</link>
+      <pubDate>Wed, 11 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member10yifan-pu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yusen Liu</title>
+      <link>https://dilab-scu.github.io/nlp/member/member11yusen-liu/</link>
+      <pubDate>Tue, 10 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member11yusen-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liao Chen</title>
+      <link>https://dilab-scu.github.io/nlp/member/member12liao-chen/</link>
+      <pubDate>Mon, 09 Jan 2012 15:52:22 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/member/member12liao-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dilab-scu.github.io/nlp/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/about/</guid>
+      <description>Sed extemplo conantur et Cnosia harundine lyra Agros metitur venatibus catenis quippe honorem tuorum Lorem markdownum finemque prunaque longe et sunt. Sed super aulaea in Paridis noctisque cubile? Iacit coetus, vastatoremque dedit; Vidi magna, recurvatis copia. Quod sit; per cingo tamen Hyperionis si vacat inclitus instabat curaque arma saxea, naturaeque pondere quaeque aer!
+ Agros apertum aliis dominaeque rapidus Prima nulla est Hortatibus voto  Anum istis praefertur est Quaque coeptis lumina mea nuda dentes semine agitavit, caesique voluptas.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dilab-scu.github.io/nlp/approach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/approach/</guid>
+      <description>Et malis vellet tellus deseruere in credant Inde sidera moenia lacertis nomen nostra membra Lorem markdownum miranti. Sonus faciunt omnibus frustra: illa possem ad regio Anubis tamen. Sustulerat debent fluviis herbis attollere rogus et formae nitentem avellere motis clipeus Achilles felix videam undas. Posuit haec ipse posse.
+Ore fame mons Olympi tantae stringit columbas proxima habebat, longius alta non. Haeserat gerunt detinuit genis est huc, dixit tam dumque nitidum.
+ Cristata causam Triones moenia habentem subito utentem Astraea castris contentus nisi leve eum invia Inferiusque capta cognoscenda flaventi locuta notavi fallere Moriens scripsi ictus tuo cum  Tarpeias insurgens summo sinistra vertice, in neve utroque exempla Cyparissus tanta tecti terras.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dilab-scu.github.io/nlp/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/mission/</guid>
+      <description>Auras queritur facientes dixit venti sustinui E in mora Lorem markdownum poenaque nuper destituit silendo quoniam, nec ait consorte membra, figuram hanc cum. Manifesta vitae facies exiguumque iunctam dictis. Vidit eadem, hanc cum descendit sinu misit quem fecit, positisque pastorve. Missus solos potentia in erant noctem est!
+if (dvdProcessorVolume &amp;lt; mpegProcess(slashdot, gigahertz)) { transferAnsiBotnet.and(logSoftware, hsfClipboardSubnet.queue_publishing( systemMemory, 5, yahoo)); } else { swappableIpv -= spoolingAdwareCrossplatform; extranetAppArchitecture(1, dtd_rpc_font(45, 67, development_sli)); } antivirus_ipv = touchscreenFiosGrep.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dilab-scu.github.io/nlp/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/research/</guid>
+      <description>Modo est Non sub haedum tenet Lorem markdownum esse diversa quoque vocavit, quam! Vires tibi axis dum spolium vaticinor fulminis, a dixere attrahit generisque tamen?
+ Petit invergens iram praetendat iam Mecum res curva iunctura silvis hoc leonum Iacent gemitum quos  Non est duram mitis sonat proculcat tumulos Alce bimembres Dauni, cur ex voces referam adunco in sors. Manibusque poples prodidit lata tantum quem suos ratae Aeginae sederunt degenerat Bacchus descendere, patriisque ieiunia.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dilab-scu.github.io/nlp/vacancy/vacancy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/vacancy/vacancy1/</guid>
+      <description>You can write $\LaTeX$ and Markdown here.
+Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
+    </item>
+    
+    <item>
+      <title>AI xiaofan</title>
+      <link>https://dilab-scu.github.io/nlp/project/ai-xiaofan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/project/ai-xiaofan/</guid>
+      <description>Introduction Link Please use Wechat to scan the QR code above to open the AI xiaofan APP</description>
+    </item>
+    
+    <item>
+      <title>Ancient Chinese Couplet Dataset</title>
+      <link>https://dilab-scu.github.io/nlp/post/ancient-chinese-couplet-dataset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/post/ancient-chinese-couplet-dataset/</guid>
+      <description>Introduction The dataset contains 774,491 ancient chinese couplets.
+Download Link Download
+Paper AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation, arXiv 2020. [Paper]</description>
+    </item>
+    
+    <item>
+      <title>Ancient Poems Dataset</title>
+      <link>https://dilab-scu.github.io/nlp/post/ancient-poems-dataset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/post/ancient-poems-dataset/</guid>
+      <description>Introduction The datasets contains 232,670 quatrains. Each quatrain consists of 4 lines of sentences, and the length of each line is fixed to 5 or 7 characters.
+Download Link Download
+Paper Generating Chinese Poetry from Images via Concrete and Abstract Information, IJCNN 2020 [Paper]
+A Multi-Modal Chinese Poetry Generation Model, IJCNN 2018 [Paper]
+Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, TETCI 2018 [Paper]</description>
+    </item>
+    
+    <item>
+      <title>Ancient-Modern Chinese Dataset</title>
+      <link>https://dilab-scu.github.io/nlp/post/ancient-modern-chinese-dataset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/post/ancient-modern-chinese-dataset/</guid>
+      <description>Introduction We create a new large-scale Ancient-Modern Chinese parallel corpus which contains 1.24M bilingual pairs. To our best knowledge, this is the first large high-quality Ancient-Modern Chinese dataset which includes 984,611 pairs in training set, 48,980 pairs in validation set, and 50,000 pairs in test set.
+Download Link Download
+Paper Ancient-Modern Chinese Translation with a New Large Training Dataset, TALLIP 2019 [Paper]
+An Automatic Evaluation Metric for Ancient-Modern Chinese Translation, Neural Computing and Applications.</description>
+    </item>
+    
+    <item>
+      <title>Chinese Dialogue Dataset</title>
+      <link>https://dilab-scu.github.io/nlp/post/chinese-dialogue-dataset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/post/chinese-dialogue-dataset/</guid>
+      <description>Introduction Prepocessed dataset containing 240k QA examples.
+Download Link Download</description>
+    </item>
+    
+    <item>
+      <title>Chinese Sentence Making Corpus</title>
+      <link>https://dilab-scu.github.io/nlp/post/chinese-sentence-making-corpus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/post/chinese-sentence-making-corpus/</guid>
+      <description>Introduction This datasts contains 2,445,164 sentences consisting of daily used words and idioms, each word and idioms have more than one example sentence.
+Download Link Download
+Paper BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation, TASLP 2019 [Paper]</description>
+    </item>
+    
+    <item>
+      <title>Chuanxiaomei</title>
+      <link>https://dilab-scu.github.io/nlp/project/chuanxiaomei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/project/chuanxiaomei/</guid>
+      <description>Introduction Link Please use Wechat to scan the QR code above to open the Chuanxiaomei APP
+Relevant publications Deep Poetry: A Chinese Classical Poetry Generation System, AAAI 2020 Paper
+Generating Chinese Poetry from Images via Concrete and Abstract Information, IJCNN 2020 Paper
+A Multi-Modal Chinese Poetry Generation Model, IJCNN 2018 Paper
+Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, TETCI 2018 Paper</description>
+    </item>
+    
+    <item>
+      <title>Dataset about users giving comments to items on Chinese websites</title>
+      <link>https://dilab-scu.github.io/nlp/post/dataset-about-users-giving-comments-to-items-on-chinese-websites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/post/dataset-about-users-giving-comments-to-items-on-chinese-websites/</guid>
+      <description>Introduction The dataset contains 586,538 sentences about user comments, which cover both positive and negetive comments.
+Download Link Download
+Paper µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation, TALLIP 2019 [Paper][Code]</description>
+    </item>
+    
+    <item>
+      <title>Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation</title>
+      <link>https://dilab-scu.github.io/nlp/project/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/project/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</guid>
+      <description>Introduction In this work, we propose generating multiple headlines with keyphrases of user interests.
+Code Link code
+Paper Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation, EMNLP 2020 Paper</description>
+    </item>
+    
+    <item>
+      <title>Laozhongyi</title>
+      <link>https://dilab-scu.github.io/nlp/project/laozhongyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/project/laozhongyi/</guid>
+      <description>Introduction An AI system generating Chinese medicine presripts.
+Link website
+Relevant publications </description>
+    </item>
+    
+    <item>
+      <title>Medical Questions Generating Dataset</title>
+      <link>https://dilab-scu.github.io/nlp/post/medical-questions-generating-dataset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/post/medical-questions-generating-dataset/</guid>
+      <description>Introduction Preprocessed dataset containing 1.06 million medical QA examples.
+Download Link Download</description>
+    </item>
+    
+    <item>
+      <title>mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation</title>
+      <link>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation-%E5%89%AF%E6%9C%AC/</guid>
+      <description>Introduction In this work, we explore the reason why training Variational Recurrent Autoencoders (VRAE) for text generation suffers from serious uninformative latent variables problem and propose an effective regularizer based approach to address it.
+Code Link code
+Paper µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation, TALLIP 2019 Paper</description>
+    </item>
+    
+    <item>
+      <title>ProphetNet</title>
+      <link>https://dilab-scu.github.io/nlp/project/prophetnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/project/prophetnet/</guid>
+      <description>Introduction This work presents a new sequence-to-sequence pre-training model called ProphetNet, which introduces a novel self-supervised objective named future n-gram prediction and the proposed n-stream self-attention mechanism.
+Code Link code
+Paper ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training, EMNLP 2020 Paper</description>
+    </item>
+    
+    <item>
+      <title>Question Data Augmentation with Controllable Rewriting in Continuous Space</title>
+      <link>https://dilab-scu.github.io/nlp/project/question-data-augmentation-with-controllable-rewriting-in-continuous-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/project/question-data-augmentation-with-controllable-rewriting-in-continuous-space/</guid>
+      <description>Introduction In this work, we propose a novel data augmentation method, referred to as Controllable Rewriting based Question Data Augmentation (CRQDA), for machine reading comprehension (MRC), question generation, and question-answering natural language inference tasks.
+Code Link code
+Paper Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space, EMNLP 2020 Paper</description>
+    </item>
+    
+    <item>
+      <title>Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning</title>
+      <link>https://dilab-scu.github.io/nlp/project/revision-in-continuous-space-unsupervised-text-style-transfer-without-adversarial-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/project/revision-in-continuous-space-unsupervised-text-style-transfer-without-adversarial-learning/</guid>
+      <description>Introduction We propose a new framework that utilizes the gradients to revise the sentence in a continuous space during inference to achieve text style transfer. Moreover, the proposed method naturally has the ability to simultaneously manipulate multiple fine-grained attributes, such as sentence length and the presence of specific words, when performing text style transfer tasks.
+Code Link code
+Paper Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning, AAAI 2020 Paper</description>
+    </item>
+    
+    <item>
+      <title>TIGS: An Inference Algorithm for Text Infilling with Gradient Search</title>
+      <link>https://dilab-scu.github.io/nlp/project/tigs-an-inference-algorithm-for-text-infilling-with-gradient-search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/project/tigs-an-inference-algorithm-for-text-infilling-with-gradient-search/</guid>
+      <description>Introduction In this work, we propose an iterative inference algorithm based on gradient search, which is the first inference algorithm that can be broadly applied to any neural sequence generative models for text infilling tasks.
+Code Link code
+Paper TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search, ACL 2019 Paper</description>
+    </item>
+    
+  </channel>
+</rss>

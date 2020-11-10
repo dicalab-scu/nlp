@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on DILab</title>
+    <link>https://dilab-scu.github.io/nlp/publication/</link>
+    <description>Recent content in Publications on DILab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Your Name, 2016 </copyright>
+    <lastBuildDate>Wed, 21 Oct 2020 05:45:35 +0200</lastBuildDate><atom:link href="https://dilab-scu.github.io/nlp/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper3prophetnet/</link>
+      <pubDate>Wed, 21 Oct 2020 05:45:35 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper3prophetnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper1tell/</link>
+      <pubDate>Sun, 04 Oct 2020 03:13:46 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper1tell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper2diverse/</link>
+      <pubDate>Sun, 04 Oct 2020 03:02:07 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper2diverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper10anchibert/</link>
+      <pubDate>Thu, 24 Sep 2020 03:41:13 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper10anchibert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Automatic Evaluation Metric for Ancient-Modern Chinese Translation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper8an-automatic/</link>
+      <pubDate>Tue, 04 Aug 2020 01:00:00 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper8an-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s be Humorous: Knowledge Enhanced Humor Generation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper11lets/</link>
+      <pubDate>Sat, 04 Jul 2020 03:04:14 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper11lets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RikiNet: Reading Wikipedia Pages for Natural Question Answering</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper4rikinet/</link>
+      <pubDate>Thu, 30 Apr 2020 03:29:21 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper4rikinet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper5revision/</link>
+      <pubDate>Fri, 03 Apr 2020 12:04:49 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper5revision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Poetry: A Chinese Classical Poetry Generation System</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper6deep-poetry/</link>
+      <pubDate>Fri, 03 Apr 2020 11:41:02 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper6deep-poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Chinese Poetry from Images via Concrete and Abstract Information</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper7generating/</link>
+      <pubDate>Tue, 24 Mar 2020 11:17:20 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper7generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploration on the Generation of Chinese Palindrome Poetry</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper9exploration/</link>
+      <pubDate>Wed, 01 Jan 2020 01:00:00 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper9exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper13bfgan/</link>
+      <pubDate>Mon, 23 Sep 2019 07:45:44 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper13bfgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper14%C2%B5-forcing/</link>
+      <pubDate>Mon, 01 Jul 2019 07:45:44 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper14%C2%B5-forcing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper12tigs/</link>
+      <pubDate>Sun, 26 May 2019 07:45:44 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper12tigs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancient-Modern Chinese Translation with a New Large Training Dataset</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper15ancient-modern/</link>
+      <pubDate>Thu, 09 May 2019 07:45:44 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper15ancient-modern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper17generating/</link>
+      <pubDate>Fri, 05 Oct 2018 05:01:51 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper17generating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Modal Chinese Poetry Generation Model</title>
+      <link>https://dilab-scu.github.io/nlp/publication/paper16a-multi/</link>
+      <pubDate>Tue, 26 Jun 2018 05:01:51 +0200</pubDate>
+      
+      <guid>https://dilab-scu.github.io/nlp/publication/paper16a-multi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
