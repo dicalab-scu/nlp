@@ -7,12 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; Your Name, 2016 </copyright><atom:link href="https://dilab-scu.github.io/nlp/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI xiaofan</title>
-      <link>https://dilab-scu.github.io/nlp/project/ai-xiaofan/</link>
+      <title>Budongwenyan xiaofan</title>
+      <link>https://dilab-scu.github.io/nlp/project/budongwenyan-xiaofan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/ai-xiaofan/</guid>
-      <description>Introduction Link Please use Wechat to scan the QR code above to open the AI xiaofan APP</description>
+      <guid>https://dilab-scu.github.io/nlp/project/budongwenyan-xiaofan/</guid>
+      <description>Introduction This is an introduction to Budongwenyan
+Link Please use Wechat to scan the QR code above to open the Budongwenyan APP
+Relevant publications Ancient-Modern Chinese Translation with a New Large Training Dataset, TALLIP 2019 [Paper]
+An Automatic Evaluation Metric for Ancient-Modern Chinese Translation, Neural Computing and Applications. NCAA 2020
+AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation, arXiv 2020. [Paper]</description>
     </item>
     
     <item>
@@ -21,7 +25,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dilab-scu.github.io/nlp/project/chuanxiaomei/</guid>
-      <description>Introduction Link Please use Wechat to scan the QR code above to open the Chuanxiaomei APP
+      <description>Introduction This is an introduction to Chuanxiaomei
+Link Please use Wechat to scan the QR code above to open the Chuanxiaomei APP
 Relevant publications Deep Poetry: A Chinese Classical Poetry Generation System, AAAI 2020 Paper
 Generating Chinese Poetry from Images via Concrete and Abstract Information, IJCNN 2020 Paper
 A Multi-Modal Chinese Poetry Generation Model, IJCNN 2018 Paper
@@ -46,8 +51,7 @@ Paper Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News M
       
       <guid>https://dilab-scu.github.io/nlp/project/laozhongyi/</guid>
       <description>Introduction An AI system generating Chinese medicine presripts.
-Link website
-Relevant publications </description>
+Link website</description>
     </item>
     
     <item>
