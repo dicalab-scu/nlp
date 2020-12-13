@@ -22,7 +22,7 @@ header{
     background-image: url("../img/header.jpg");
     background-size: cover;
     text-align: center;
-    color: #fff;
+    /* color: #fff; */
     background-position: center;
     /* min-height: 100%;  */
 }
@@ -36,7 +36,7 @@ header{
 .header-content .header-content-inner h1 {
     margin-top: 0;
     margin-bottom: 0;
-    font-weight: 700;
+    font-weight: 700; 
 }
 
 .header-content .header-content-inner hr {
@@ -252,8 +252,8 @@ span.darknav {
     background-image: url('../img/portraits/portrait.jpg');
     width: 200px;
     height: 200px;
-    margin: 0 auto;
-    border-radius: 50%;
+    margin: 0 auto; 
+   /* border-radius: 50%; */
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -264,7 +264,7 @@ span.darknav {
     width: 100px;
     height: 100px;
     margin: 0 auto;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
