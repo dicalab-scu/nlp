@@ -39,8 +39,7 @@ Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dilab-scu.github.io/nlp/project/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</guid>
-      <description>Introduction Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation
-In this work, we propose generating multiple headlines with keyphrases of user interests.
+      <description>Introduction In this work, we propose generating multiple headlines with keyphrases of user interests.
 Code Link code
 Paper Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation, EMNLP 2020 Paper</description>
     </item>
