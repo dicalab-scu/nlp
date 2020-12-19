@@ -187,15 +187,15 @@
   </url>
   
   <url>
-    <loc>https://dilab-scu.github.io/nlp/dataset/ancient-chinese-couplet-dataset/</loc>
+    <loc>https://dilab-scu.github.io/nlp/post/ancient-chinese-couplet-dataset/</loc>
   </url>
   
   <url>
-    <loc>https://dilab-scu.github.io/nlp/dataset/ancient-poems-dataset/</loc>
+    <loc>https://dilab-scu.github.io/nlp/post/ancient-poems-dataset/</loc>
   </url>
   
   <url>
-    <loc>https://dilab-scu.github.io/nlp/dataset/ancient-modern-chinese-dataset/</loc>
+    <loc>https://dilab-scu.github.io/nlp/post/ancient-modern-chinese-dataset/</loc>
   </url>
   
   <url>
@@ -207,11 +207,11 @@
   </url>
   
   <url>
-    <loc>https://dilab-scu.github.io/nlp/dataset/chinese-dialogue-dataset/</loc>
+    <loc>https://dilab-scu.github.io/nlp/post/chinese-dialogue-dataset/</loc>
   </url>
   
   <url>
-    <loc>https://dilab-scu.github.io/nlp/dataset/chinese-sentence-making-corpus/</loc>
+    <loc>https://dilab-scu.github.io/nlp/post/chinese-sentence-making-corpus/</loc>
   </url>
   
   <url>
@@ -219,11 +219,7 @@
   </url>
   
   <url>
-    <loc>https://dilab-scu.github.io/nlp/dataset/dataset-about-users-giving-comments-to-items-on-chinese-websites/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dilab-scu.github.io/nlp/dataset/</loc>
+    <loc>https://dilab-scu.github.io/nlp/post/dataset-about-users-giving-comments-to-items-on-chinese-websites/</loc>
   </url>
   
   <url>
@@ -235,11 +231,15 @@
   </url>
   
   <url>
-    <loc>https://dilab-scu.github.io/nlp/dataset/medical-questions-generating-dataset/</loc>
+    <loc>https://dilab-scu.github.io/nlp/post/medical-questions-generating-dataset/</loc>
   </url>
   
   <url>
-    <loc>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation-%E5%89%AF%E6%9C%AC/</loc>
+    <loc>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dilab-scu.github.io/nlp/post/</loc>
   </url>
   
   <url>

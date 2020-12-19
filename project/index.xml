@@ -34,7 +34,7 @@ Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, 
     </item>
     
     <item>
-      <title>Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation</title>
+      <title>Diverse, Controllable, and Keyphrase-Aware</title>
       <link>https://dilab-scu.github.io/nlp/project/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -56,10 +56,10 @@ Link website</description>
     
     <item>
       <title>mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation</title>
-      <link>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation/</guid>
       <description>Introduction In this work, we explore the reason why training Variational Recurrent Autoencoders (VRAE) for text generation suffers from serious uninformative latent variables problem and propose an effective regularizer based approach to address it.
 Code Link code
 Paper µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation, TALLIP 2019 Paper</description>

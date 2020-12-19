@@ -219,8 +219,8 @@ span.darknav {
 }
 
 
-.home-section:nth-of-type(even) {
-    background-color: rgb(247, 247, 247);
+.home-section:nth-of-type(odd) {
+    background-color: rgb(247, 247, 247); 
 }
 
 .section-heading h1 {

@@ -334,10 +334,10 @@ Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iac
     
     <item>
       <title>Ancient Chinese Couplet Dataset</title>
-      <link>https://dilab-scu.github.io/nlp/dataset/ancient-chinese-couplet-dataset/</link>
+      <link>https://dilab-scu.github.io/nlp/post/ancient-chinese-couplet-dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/dataset/ancient-chinese-couplet-dataset/</guid>
+      <guid>https://dilab-scu.github.io/nlp/post/ancient-chinese-couplet-dataset/</guid>
       <description>Introduction The dataset contains 774,491 ancient chinese couplets.
 Download Link Download
 Paper AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Generation, arXiv 2020. [Paper]</description>
@@ -345,10 +345,10 @@ Paper AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding a
     
     <item>
       <title>Ancient Poems Dataset</title>
-      <link>https://dilab-scu.github.io/nlp/dataset/ancient-poems-dataset/</link>
+      <link>https://dilab-scu.github.io/nlp/post/ancient-poems-dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/dataset/ancient-poems-dataset/</guid>
+      <guid>https://dilab-scu.github.io/nlp/post/ancient-poems-dataset/</guid>
       <description>Introduction The datasets contains 232,670 quatrains. Each quatrain consists of 4 lines of sentences, and the length of each line is fixed to 5 or 7 characters.
 Download Link Download
 Paper Generating Chinese Poetry from Images via Concrete and Abstract Information, IJCNN 2020 [Paper]
@@ -358,10 +358,10 @@ Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, 
     
     <item>
       <title>Ancient-Modern Chinese Dataset</title>
-      <link>https://dilab-scu.github.io/nlp/dataset/ancient-modern-chinese-dataset/</link>
+      <link>https://dilab-scu.github.io/nlp/post/ancient-modern-chinese-dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/dataset/ancient-modern-chinese-dataset/</guid>
+      <guid>https://dilab-scu.github.io/nlp/post/ancient-modern-chinese-dataset/</guid>
       <description>Introduction We create a new large-scale Ancient-Modern Chinese parallel corpus which contains 1.24M bilingual pairs. To our best knowledge, this is the first large high-quality Ancient-Modern Chinese dataset which includes 984,611 pairs in training set, 48,980 pairs in validation set, and 50,000 pairs in test set.
 Download Link Download
 Paper Ancient-Modern Chinese Translation with a New Large Training Dataset, TALLIP 2019 [Paper]
@@ -383,20 +383,20 @@ AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Gen
     
     <item>
       <title>Chinese Dialogue Dataset</title>
-      <link>https://dilab-scu.github.io/nlp/dataset/chinese-dialogue-dataset/</link>
+      <link>https://dilab-scu.github.io/nlp/post/chinese-dialogue-dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/dataset/chinese-dialogue-dataset/</guid>
+      <guid>https://dilab-scu.github.io/nlp/post/chinese-dialogue-dataset/</guid>
       <description>Introduction Prepocessed dataset containing 240k QA examples.
 Download Link Download</description>
     </item>
     
     <item>
       <title>Chinese Sentence Making Corpus</title>
-      <link>https://dilab-scu.github.io/nlp/dataset/chinese-sentence-making-corpus/</link>
+      <link>https://dilab-scu.github.io/nlp/post/chinese-sentence-making-corpus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/dataset/chinese-sentence-making-corpus/</guid>
+      <guid>https://dilab-scu.github.io/nlp/post/chinese-sentence-making-corpus/</guid>
       <description>Introduction This datasts contains 2,445,164 sentences consisting of daily used words and idioms, each word and idioms have more than one example sentence.
 Download Link Download
 Paper BFGAN: Backward and Forward Generative Adversarial Networks for Lexically Constrained Sentence Generation, TASLP 2019 [Paper]</description>
@@ -418,17 +418,17 @@ Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, 
     
     <item>
       <title>Dataset about users giving comments to items on Chinese websites</title>
-      <link>https://dilab-scu.github.io/nlp/dataset/dataset-about-users-giving-comments-to-items-on-chinese-websites/</link>
+      <link>https://dilab-scu.github.io/nlp/post/dataset-about-users-giving-comments-to-items-on-chinese-websites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/dataset/dataset-about-users-giving-comments-to-items-on-chinese-websites/</guid>
+      <guid>https://dilab-scu.github.io/nlp/post/dataset-about-users-giving-comments-to-items-on-chinese-websites/</guid>
       <description>Introduction The dataset contains 586,538 sentences about user comments, which cover both positive and negetive comments.
 Download Link Download
 Paper µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation, TALLIP 2019 [Paper][Code]</description>
     </item>
     
     <item>
-      <title>Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation</title>
+      <title>Diverse, Controllable, and Keyphrase-Aware</title>
       <link>https://dilab-scu.github.io/nlp/project/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -450,20 +450,20 @@ Link website</description>
     
     <item>
       <title>Medical Questions Generating Dataset</title>
-      <link>https://dilab-scu.github.io/nlp/dataset/medical-questions-generating-dataset/</link>
+      <link>https://dilab-scu.github.io/nlp/post/medical-questions-generating-dataset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/dataset/medical-questions-generating-dataset/</guid>
+      <guid>https://dilab-scu.github.io/nlp/post/medical-questions-generating-dataset/</guid>
       <description>Introduction Preprocessed dataset containing 1.06 million medical QA examples.
 Download Link Download</description>
     </item>
     
     <item>
       <title>mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation</title>
-      <link>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation/</guid>
       <description>Introduction In this work, we explore the reason why training Variational Recurrent Autoencoders (VRAE) for text generation suffers from serious uninformative latent variables problem and propose an effective regularizer based approach to address it.
 Code Link code
 Paper µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation, TALLIP 2019 Paper</description>
