@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on DILab</title>
-    <link>https://dilab-scu.github.io/nlp/project/</link>
+    <link>https://dicalab-scu.github.io/nlp/project/</link>
     <description>Recent content in Projects on DILab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; DILab-NLP , 2020 </copyright><atom:link href="https://dilab-scu.github.io/nlp/project/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; DILab-NLP , 2020 </copyright><atom:link href="https://dicalab-scu.github.io/nlp/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Budongwenyan xiaofan</title>
-      <link>https://dilab-scu.github.io/nlp/project/budongwenyan-xiaofan/</link>
+      <link>https://dicalab-scu.github.io/nlp/project/budongwenyan-xiaofan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/budongwenyan-xiaofan/</guid>
+      <guid>https://dicalab-scu.github.io/nlp/project/budongwenyan-xiaofan/</guid>
       <description>Introduction This is an introduction to Budongwenyan
 Link Please use Wechat to scan the QR code above to open the Budongwenyan APP
 Relevant publications Ancient-Modern Chinese Translation with a New Large Training Dataset, TALLIP 2019 [Paper]
@@ -21,10 +21,10 @@ AnchiBERT: A Pre-Trained Model for Ancient ChineseLanguage Understanding and Gen
     
     <item>
       <title>Chuanxiaomei</title>
-      <link>https://dilab-scu.github.io/nlp/project/chuanxiaomei/</link>
+      <link>https://dicalab-scu.github.io/nlp/project/chuanxiaomei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/chuanxiaomei/</guid>
+      <guid>https://dicalab-scu.github.io/nlp/project/chuanxiaomei/</guid>
       <description>Introduction This is an introduction to Chuanxiaomei
 Link Please use Wechat to scan the QR code above to open the Chuanxiaomei APP
 Relevant publications Deep Poetry: A Chinese Classical Poetry Generation System, AAAI 2020 Paper
@@ -35,10 +35,10 @@ Generating Style-specific Chinese Tang Poetry with a Simple Actor-Critic Model, 
     
     <item>
       <title>Diverse, Controllable, and Keyphrase-Aware</title>
-      <link>https://dilab-scu.github.io/nlp/project/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</link>
+      <link>https://dicalab-scu.github.io/nlp/project/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</guid>
+      <guid>https://dicalab-scu.github.io/nlp/project/diverse-controllable-and-keyphrase-aware-a-corpus-and-method-for-news-multi-headline-generation/</guid>
       <description>Introduction In this work, we propose generating multiple headlines with keyphrases of user interests.
 Code Link code
 Paper Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News Multi-Headline Generation, EMNLP 2020 Paper</description>
@@ -46,20 +46,20 @@ Paper Diverse, Controllable, and Keyphrase-Aware: A Corpus and Method for News M
     
     <item>
       <title>Laozhongyi</title>
-      <link>https://dilab-scu.github.io/nlp/project/laozhongyi/</link>
+      <link>https://dicalab-scu.github.io/nlp/project/laozhongyi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/laozhongyi/</guid>
+      <guid>https://dicalab-scu.github.io/nlp/project/laozhongyi/</guid>
       <description>Introduction An AI system generating Chinese medicine presripts.
 Link website</description>
     </item>
     
     <item>
       <title>mu-Forcing: Training Variational Recurrent Autoencoders for Text Generation</title>
-      <link>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation/</link>
+      <link>https://dicalab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation/</guid>
+      <guid>https://dicalab-scu.github.io/nlp/project/mu-forcing-training-variational-recurrent-autoencoders-for-text-generation/</guid>
       <description>Introduction In this work, we explore the reason why training Variational Recurrent Autoencoders (VRAE) for text generation suffers from serious uninformative latent variables problem and propose an effective regularizer based approach to address it.
 Code Link code
 Paper µ-Forcing: Training Variational Recurrent Autoencoders for Text Generation, TALLIP 2019 Paper</description>
@@ -67,10 +67,10 @@ Paper µ-Forcing: Training Variational Recurrent Autoencoders for Text Generatio
     
     <item>
       <title>ProphetNet</title>
-      <link>https://dilab-scu.github.io/nlp/project/prophetnet/</link>
+      <link>https://dicalab-scu.github.io/nlp/project/prophetnet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/prophetnet/</guid>
+      <guid>https://dicalab-scu.github.io/nlp/project/prophetnet/</guid>
       <description>Introduction This work presents a new sequence-to-sequence pre-training model called ProphetNet, which introduces a novel self-supervised objective named future n-gram prediction and the proposed n-stream self-attention mechanism.
 Code Link code
 Paper ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training, EMNLP 2020 Paper</description>
@@ -78,10 +78,10 @@ Paper ProphetNet: Predicting Future N-gram for Sequence-to-Sequence Pre-training
     
     <item>
       <title>Question Data Augmentation with Controllable Rewriting in Continuous Space</title>
-      <link>https://dilab-scu.github.io/nlp/project/question-data-augmentation-with-controllable-rewriting-in-continuous-space/</link>
+      <link>https://dicalab-scu.github.io/nlp/project/question-data-augmentation-with-controllable-rewriting-in-continuous-space/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/question-data-augmentation-with-controllable-rewriting-in-continuous-space/</guid>
+      <guid>https://dicalab-scu.github.io/nlp/project/question-data-augmentation-with-controllable-rewriting-in-continuous-space/</guid>
       <description>Introduction In this work, we propose a novel data augmentation method, referred to as Controllable Rewriting based Question Data Augmentation (CRQDA), for machine reading comprehension (MRC), question generation, and question-answering natural language inference tasks.
 Code Link code
 Paper Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space, EMNLP 2020 Paper</description>
@@ -89,10 +89,10 @@ Paper Tell Me How to Ask Again: Question Data Augmentation with Controllable Rew
     
     <item>
       <title>Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning</title>
-      <link>https://dilab-scu.github.io/nlp/project/revision-in-continuous-space-unsupervised-text-style-transfer-without-adversarial-learning/</link>
+      <link>https://dicalab-scu.github.io/nlp/project/revision-in-continuous-space-unsupervised-text-style-transfer-without-adversarial-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/revision-in-continuous-space-unsupervised-text-style-transfer-without-adversarial-learning/</guid>
+      <guid>https://dicalab-scu.github.io/nlp/project/revision-in-continuous-space-unsupervised-text-style-transfer-without-adversarial-learning/</guid>
       <description>Introduction We propose a new framework that utilizes the gradients to revise the sentence in a continuous space during inference to achieve text style transfer. Moreover, the proposed method naturally has the ability to simultaneously manipulate multiple fine-grained attributes, such as sentence length and the presence of specific words, when performing text style transfer tasks.
 Code Link code
 Paper Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning, AAAI 2020 Paper</description>
@@ -100,10 +100,10 @@ Paper Revision in Continuous Space: Unsupervised Text Style Transfer without Adv
     
     <item>
       <title>TIGS: An Inference Algorithm for Text Infilling with Gradient Search</title>
-      <link>https://dilab-scu.github.io/nlp/project/tigs-an-inference-algorithm-for-text-infilling-with-gradient-search/</link>
+      <link>https://dicalab-scu.github.io/nlp/project/tigs-an-inference-algorithm-for-text-infilling-with-gradient-search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dilab-scu.github.io/nlp/project/tigs-an-inference-algorithm-for-text-infilling-with-gradient-search/</guid>
+      <guid>https://dicalab-scu.github.io/nlp/project/tigs-an-inference-algorithm-for-text-infilling-with-gradient-search/</guid>
       <description>Introduction In this work, we propose an iterative inference algorithm based on gradient search, which is the first inference algorithm that can be broadly applied to any neural sequence generative models for text infilling tasks.
 Code Link code
 Paper TIGS: An Inference Algorithm for Text Inﬁlling with Gradient Search, ACL 2019 Paper</description>
