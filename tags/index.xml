@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on DILab</title>
+    <title>Tags on DICAlab</title>
     <link>https://dicalab-scu.github.io/nlp/tags/</link>
-    <description>Recent content in Tags on DILab</description>
+    <description>Recent content in Tags on DICAlab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; DILab-NLP , 2020 </copyright><atom:link href="https://dicalab-scu.github.io/nlp/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; DICAlab-NLP , 2021 </copyright><atom:link href="https://dicalab-scu.github.io/nlp/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

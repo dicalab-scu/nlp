@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on DILab</title>
+    <title>Projects on DICAlab</title>
     <link>https://dicalab-scu.github.io/nlp/project/</link>
-    <description>Recent content in Projects on DILab</description>
+    <description>Recent content in Projects on DICAlab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; DILab-NLP , 2020 </copyright><atom:link href="https://dicalab-scu.github.io/nlp/project/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; DICAlab-NLP , 2021 </copyright><atom:link href="https://dicalab-scu.github.io/nlp/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Budongwenyan xiaofan</title>
       <link>https://dicalab-scu.github.io/nlp/project/budongwenyan-xiaofan/</link>
